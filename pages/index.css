@@ -33,3 +33,9 @@
 @import url(../blocks/feynman/__link/feynman__link.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
+
+/*Dark Table Theme styles*/
+@import url(../blocks/table/__cell/_theme/_dark/table__cell_theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../blocks/kaufman/kaurfman.css);
