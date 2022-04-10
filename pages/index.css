@@ -39,3 +39,7 @@
 @import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
 @import url(../blocks/kaufman/kaurfman.css);
+@import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
+@import url(../blocks/section-subtitle/_theme/_dark/section-subtitle_theme_dark.css);
+@import url(../blocks/table/__heading/_theme_dark/table__heading_theme_dark.css);
+@import url(../blocks/table/__text/_theme/_dark/table__text_theme_dark.css);
