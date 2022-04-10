@@ -43,3 +43,11 @@
 @import url(../blocks/section-subtitle/_theme/_dark/section-subtitle_theme_dark.css);
 @import url(../blocks/table/__heading/_theme_dark/table__heading_theme_dark.css);
 @import url(../blocks/table/__text/_theme/_dark/table__text_theme_dark.css);
+
+/*Techniques section styles*/
+@import url(../blocks/techniques/techniques.css);
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__title/cards__title.css);
+@import url(../blocks/cards/__item/cards__item.css);
+@import url(../blocks/cards/__image/cards__image.css);
+@import url(../blocks/cards/__description/cards__desription.css);
