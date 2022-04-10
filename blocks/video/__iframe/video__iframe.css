@@ -1,0 +1,11 @@
+.video__iframe{
+    width: 515px;
+    height: 316px;
+    margin: 0;
+    margin-right: 20px;
+    src: url('https://www.youtube.com/embed/arj7oStGLkU');
+}
+
+.video__iframe:nth-of-type(2n){
+    margin: 0;
+}
